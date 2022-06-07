@@ -1,0 +1,6 @@
+
+# Files - Gravação
+
+Para gravar a resposta de um console em um arquivo, utilizar o comando abaixo:
+
+> node .\index.test.js > .\mocks\alderaan.json
